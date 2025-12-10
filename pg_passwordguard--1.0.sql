@@ -1,0 +1,8 @@
+-- pg_passwordguard--1.0.sql
+-- No SQL objects are required for this extension.
+-- All functionality is implemented in the C module via check_password_hook.
+--
+-- This file exists so that:
+-- CREATE EXTENSION pg_passwordguard; works and registers the extension in pg_extension.
+--
+-- Nothing to do here.
