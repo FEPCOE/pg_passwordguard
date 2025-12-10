@@ -104,3 +104,10 @@ These tests validate each policy check, including:
 * Missing character classes
 * Username included in password
 * Valid password case
+
+# License
+This project is licensed under the **BSD 3-Clause License**.
+
+# Credits
+Developed by **Kothari Nishchay**.
+Contributions, suggestions, and improvements are welcome.
